@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.bellintegrator.practice.dao.PersonDAO;
-import ru.bellintegrator.practice.model.Person;
+import ru.bellintegrator.practice.person.PersonDAO;
+import ru.bellintegrator.practice.person.Person;
 import ru.bellintegrator.practice.service.DummyService;
 import ru.bellintegrator.practice.view.PersonView;
 

@@ -10,7 +10,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 import org.springframework.web.servlet.LocaleResolver;
 import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 import ru.bellintegrator.practice.controller.impl.DummyControllerImpl;
-import ru.bellintegrator.practice.dao.impl.PersonDAOImpl;
+import ru.bellintegrator.practice.person.PersonDAOImpl;
 import ru.bellintegrator.practice.service.impl.DummyServiceImpl;
 import springfox.documentation.builders.ApiInfoBuilder;
 import springfox.documentation.service.ApiInfo;

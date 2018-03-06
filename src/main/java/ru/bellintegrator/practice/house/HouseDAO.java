@@ -1,6 +1,6 @@
-package ru.bellintegrator.practice.dao;
+package ru.bellintegrator.practice.house;
 
-import ru.bellintegrator.practice.model.House;
+import ru.bellintegrator.practice.house.House;
 
 import java.util.List;
 

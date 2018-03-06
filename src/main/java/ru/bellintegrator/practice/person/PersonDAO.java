@@ -1,6 +1,6 @@
-package ru.bellintegrator.practice.dao;
+package ru.bellintegrator.practice.person;
 
-import ru.bellintegrator.practice.model.Person;
+import ru.bellintegrator.practice.person.Person;
 
 import java.util.List;
 
