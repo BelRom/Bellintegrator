@@ -1,7 +1,6 @@
 package ru.bellintegrator.practice.organization;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import ru.bellintegrator.practice.person.Person;
 
 import javax.persistence.EntityManager;
 import javax.persistence.TypedQuery;

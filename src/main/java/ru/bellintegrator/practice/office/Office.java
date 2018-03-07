@@ -1,7 +1,5 @@
 package ru.bellintegrator.practice.office;
 
-import ru.bellintegrator.practice.house.House;
-
 import javax.persistence.*;
 
 

@@ -1,4 +1,4 @@
-package ru.bellintegrator.practice.service;
+package ru.bellintegrator.practice.old.service;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -10,9 +10,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 import org.springframework.transaction.annotation.Transactional;
 import ru.bellintegrator.practice.Application;
-import ru.bellintegrator.practice.house.HouseDAO;
-import ru.bellintegrator.practice.house.House;
-import ru.bellintegrator.practice.person.Person;
+import ru.bellintegrator.practice.old.house.HouseDAO;
+import ru.bellintegrator.practice.old.house.House;
+import ru.bellintegrator.practice.old.person.Person;
 
 import java.util.HashSet;
 import java.util.List;

@@ -1,6 +1,4 @@
-package ru.bellintegrator.practice.person;
-
-import ru.bellintegrator.practice.person.Person;
+package ru.bellintegrator.practice.old.person;
 
 import java.util.List;
 

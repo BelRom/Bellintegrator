@@ -1,6 +1,4 @@
-package ru.bellintegrator.practice.house;
-
-import ru.bellintegrator.practice.house.House;
+package ru.bellintegrator.practice.old.house;
 
 import java.util.List;
 

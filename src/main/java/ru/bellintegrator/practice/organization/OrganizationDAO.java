@@ -1,7 +1,5 @@
 package ru.bellintegrator.practice.organization;
 
-import ru.bellintegrator.practice.person.Person;
-
 import java.util.List;
 
 public interface OrganizationDAO {
